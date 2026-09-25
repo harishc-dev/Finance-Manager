@@ -105,8 +105,8 @@ Whether tracking systematic investment plans (SIPs), calculating complex bond co
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/baba-wealth.git
-cd baba-wealth
+git clone https://github.com/harishc-dev/Finance-Manager.git
+cd Finance-Manager
 ```
 
 ### 2. Install Dependencies
