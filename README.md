@@ -27,9 +27,9 @@
 
 ![Family-Page](assets/family.jpeg)
 
-![AI-Analyst](assets/ai-analyst.jpeg)
-
 ![AI-Document](assets/ai-docu.jpeg)
+
+![AI-Analyst](assets/ai-analyst.jpeg)
 
 ![Settings](assets/settings.jpeg)
 
