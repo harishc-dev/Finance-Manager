@@ -254,6 +254,10 @@ If this project helps your event or inspires your work, please consider giving i
 [![GitHub](https://img.shields.io/badge/GitHub-harishc--dev-181717?style=flat-square&logo=github)](https://github.com/harishc-dev)
 
 ---
+<div align="center">
+
 ### Made with 💙 by Harish C
 
 *Track. Analyze. Manage. — all in one place.*
+
+</div>
