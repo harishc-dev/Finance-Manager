@@ -19,6 +19,19 @@
 </div>
 
 ---
+## 📸 Preview
+
+![Dashboard](assets/dashboard.jpeg)
+
+![Portfolio](assets/portfolio.jpeg)
+
+![Family-Page](assets/family.jpeg)
+
+![AI-Analyst](assets/ai-analyst.jpeg)
+
+![AI-Document](assets/ai-docu.jpeg)
+
+![Settings](assets/settings.jpeg)
 
 ## 🌟 Overview
 
