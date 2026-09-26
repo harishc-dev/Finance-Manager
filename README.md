@@ -250,7 +250,7 @@ If this project helps your event or inspires your work, please consider giving i
 
 **Harish C**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-harishc--dev.me-00D9FF?style=flat-square&logo=google-chrome&logoColor=white)](https://harishc-dev.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-harishc--dev.netlify.app-00D9FF?style=flat-square&logo=google-chrome&logoColor=white)](https://harishc-dev.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-harishc--dev-181717?style=flat-square&logo=github)](https://github.com/harishc-dev)
 
 ---
